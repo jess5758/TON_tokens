@@ -1,5 +1,3 @@
-
-
 # Token
 Simple tokens for TON.
 ## Internal token
