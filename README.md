@@ -1,4 +1,4 @@
-
+win
 
 # Token
 Simple tokens for TON.
